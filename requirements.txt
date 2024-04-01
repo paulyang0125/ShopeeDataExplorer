@@ -96,7 +96,7 @@ pathlib2==2.3.7.post1
     # via bumpver
 pep517==0.12.0
     # via build
-pillow==9.1.1
+pillow==10.3.0
     # via matplotlib
 pip-tools==6.8.0
     # via emarket-data-explorer (pyproject.toml)
