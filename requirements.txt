@@ -151,7 +151,7 @@ tomli==2.0.1
     #   build
     #   pep517
     #   pytest
-tqdm==4.64.0
+tqdm==4.66.3
     # via emarket-data-explorer (pyproject.toml)
 typer==0.4.1
     # via emarket-data-explorer (pyproject.toml)
