@@ -155,7 +155,7 @@ tqdm==4.64.0
     # via emarket-data-explorer (pyproject.toml)
 typer==0.4.1
     # via emarket-data-explorer (pyproject.toml)
-urllib3==1.26.9
+urllib3==1.26.19
     # via requests
 wheel==0.37.1
     # via pip-tools
