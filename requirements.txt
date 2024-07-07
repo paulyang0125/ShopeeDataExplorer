@@ -28,7 +28,7 @@ build==0.8.0
     # via pip-tools
 bumpver==2022.1116
     # via emarket-data-explorer (pyproject.toml)
-certifi==2022.6.15
+certifi==2024.7.4
     # via requests
 charset-normalizer==2.1.0
     # via
